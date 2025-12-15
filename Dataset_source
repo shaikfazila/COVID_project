@@ -1,0 +1,10 @@
+## 📊 Dataset Source
+The COVID-19 dataset used in this project is publicly available and maintained by **Our World in Data**.
+
+- Source: https://ourworldindata.org/covid-deaths
+- Data includes global information on:
+  - COVID-19 cases
+  - Deaths
+  - Population
+  - Vaccinations
+  - Dates and locations
