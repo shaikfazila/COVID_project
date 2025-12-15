@@ -1,8 +1,5 @@
 # COVID_project
-Here is a **clean, professional, GitHub-ready README.md** for your **COVID-19 Data Exploration (SQL)** project.
-It matches **data analyst portfolio standards** and clearly reflects the SQL work you shared.
 
----
 
 # 🦠 COVID-19 Data Exploration (SQL)
 
@@ -180,11 +177,3 @@ This project is intended for **educational and portfolio purposes**.
 
 ---
 
-If you want, I can also:
-
-* Shorten this README
-* Make it **ATS-optimized**
-* Write a **GitHub About description**
-* Convert this into a **Power BI project README**
-
-Just tell me 👍
